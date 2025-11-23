@@ -117,12 +117,12 @@ weather_app/
 
 Screenshot
 
-![Weather App UI Screenshot]()
+![Weather App UI Screenshot](https://github.com/vishvesh-co/Weather-Project/blob/main/assets/weather_app_ui.png)
 
 ---
 
 Video 
 
-![Weather App UI Video]()
+![Weather App UI Video](https://github.com/vishvesh-co/Weather-Project/blob/main/assets/Video%20Project.gif)
 
 ---
